@@ -1,0 +1,15 @@
+<!-- Botiga online. Respresentar la informació dels productes proporcionats en xml de manera estructurada.-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+    <unicorn id="cloud">
+        <name> Cloud </name>
+        <description> Unicornio rosa con tonos de azul cielo y gris, con el cuerno, las orejas, los ojos y las paticas de color azul con purpurina.</description>
+        <price> 19,99 </price>
+        <category>Unicornios sin alas </category>
+        <stock> 15 </stock>
+        <img> </img>
+    </unicorn>
+
