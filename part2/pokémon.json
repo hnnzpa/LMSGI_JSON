@@ -1,0 +1,102 @@
+{
+    "pokemons":[
+        {"poquemon":{
+            "id": 0300,
+            "nom": "Skitty",
+            "tipus": [
+                {"tip": "normal"}
+            ],
+            "pes": {
+                "valor": 11, 
+                "unitat_mesura": "kg"
+            },
+            "altura": {
+                "valor": 0.6, 
+                "unitat_mesura": "m"
+            },
+            "estadistiques": {
+                "velocitat": 5,
+                "fortalesa": 3,
+                "precisio": 3,
+                "resistencia": 3
+            
+            },
+            "moviments": [
+                {"nom":"Ojitos tiernos",
+                "descripcio": "movimiento de tipo hada",
+                "potencia": "-",
+                "contacte": false
+            },
+                {"nom":"Latigo",
+                "descripcio": "movimiento de tipo normal",
+                "potencia": "-",
+                "contacte": false
+            }
+            ],
+            "imatge":"https://www.wikidex.net/wiki/Skitty#Movimientos",
+            "evoluvions":[
+                {"identificador_evolucio": {
+                    "identificador": 0301,
+                    "nivell": "Piedra lunar"
+                }
+            }
+            
+            ]
+
+        }
+    },
+
+        {"poquemon":{
+            "id":0291,
+            "nom": "Ninjask",
+            "tipus": [
+                {"tip": "bicho"},
+                {"tip": "normal"}
+            ],
+            "pes": {
+                "valor": 12, 
+                "unitat_mesura": "kg"
+            },
+            "altura": {
+                "valor": 0.8, 
+                "unitat_mesura": "m"
+            },
+            "estadistiques": {
+                "velocitat": 5,
+                "fortalesa": 3,
+                "precisio": 3,
+                "resistencia": 2
+            
+            },
+            "moviments": [
+                {"nom":"",
+                "descripcio": "",
+                "potencia": "",
+                "contacte": ""
+            },
+                {"nom":"",
+                "descripcio": "",
+                "potencia": "",
+                "contacte": ""
+            }
+            ],
+            "imatge": "",
+            "evoluvions":[
+                {"identificador_evolucio": {
+                    "identificador": "",
+                    "nivell": ""
+                }
+            },
+            {"identificador_evolucio": {
+                "identificador": "",
+                "nivell": ""
+            }
+        }
+            ]
+
+        }
+    }
+
+
+    ]
+}

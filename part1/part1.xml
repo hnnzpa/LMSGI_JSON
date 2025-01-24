@@ -3,13 +3,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 
-
-    <unicorn id="cloud">
-        <name> Cloud </name>
+<productes_tenda>
+    <producte id="0123">
+        <name et="Cloud"> Unicornio </name>
         <description> Unicornio rosa con tonos de azul cielo y gris, con el cuerno, las orejas, los ojos y las paticas de color azul con purpurina.</description>
-        <price> 19,99 </price>
-        <category>Unicornios sin alas </category>
-        <stock> 15 </stock>
-        <img> </img>
-    </unicorn>
-
+            <color> Rosa </color>
+            <mida> 15cm </mida>
+            <purpurina?> Sí </purpurina?>
+        <price> 9,99 </price>
+        <category>Peluche</category>
+        <stock> 15 </stock>       
+    </producte>
+    
+    <producte id="0456">
+        <name et="Gold"> Unicornio </name>
+        <description> Unicornio blanco con tonos de verdosos y dorados, con el cuerno, las orejas, los ojos y las paticas de color amarillo con purpurina.</description>
+            <color> Blanco </color>
+            <mida> 15cm </mida>
+            <purpurina?> Sí </purpurina?>
+        <price> 9,99 </price>
+        <category>Peluche</category>
+        <stock> 8 </stock>       
+    </producte>
+</productes_tenda>
