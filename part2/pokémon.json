@@ -69,29 +69,25 @@
             
             },
             "moviments": [
-                {"nom":"",
-                "descripcio": "",
-                "potencia": "",
-                "contacte": ""
+                {"nom":"Chirrido",
+                "descripcio": "movimiento de tipo normal",
+                "potencia": "-",
+                "contacte": "No"
             },
-                {"nom":"",
-                "descripcio": "",
-                "potencia": "",
-                "contacte": ""
+                {"nom":"Cuchillada",
+                "descripcio": "moviemiento de tipo normal",
+                "potencia": "70",
+                "contacte": "Sí"
             }
             ],
-            "imatge": "",
+            "imatge": "https://www.wikidex.net/wiki/Archivo:Ninjask.png",
             "evoluvions":[
                 {"identificador_evolucio": {
-                    "identificador": "",
-                    "nivell": ""
+                    "identificador": 0292,
+                    "nivell": "si hay espacio en el equipo y teniendo una Poké Ball"
                 }
-            },
-            {"identificador_evolucio": {
-                "identificador": "",
-                "nivell": ""
             }
-        }
+            
             ]
 
         }
